@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Profile</title>
+    
 </head>
 <body>
 
 <h1>👋 Hi, I’m @BallaSaiSrilekha</h1>
 
 <!-- Or using a span with inline CSS -->
-<span style="font-size: 32px;">👋 Hi, I’m @BallaSaiSrilekha</span>
+
 
 </body>
 </html>
