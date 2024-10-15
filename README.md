@@ -1,5 +1,19 @@
-                                                                    **👋Hi, I’m @BallaSaiSrilekha**
+                                                                      <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+<body>
 
+<h1>👋 Hi, I’m @BallaSaiSrilekha</h1>
+
+<!-- Or using a span with inline CSS -->
+<span style="font-size: 32px;">👋 Hi, I’m @BallaSaiSrilekha</span>
+
+</body>
+</html>
                                                                     
 - 👀 I’m interested in Data Analytics and have 1+ years of experience in relevant field and 3.5 years of work experience in IT field.
 - 🌱 I’m currently learning how to transform raw data into insights
