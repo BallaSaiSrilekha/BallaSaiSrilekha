@@ -8,11 +8,11 @@
 
 Visit my website: https://www.linkedin.com/in/balla-sai-srilekha-13386b295/
 Reach out to me: ballasaisrilekha@gmail.com
-Languages and Tools: <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/SQL.svg" alt="SQL" width="30"/> 
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Microsoft_Office_Word_Logo.svg" alt="Microsoft Word" width="30"/> 
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Microsoft_Office_logo_2019.svg" alt="Microsoft Office" width="30"/> 
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="30"/> 
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Statistics_icon.svg/1200px-Statistics_icon.svg.png" alt="Statistics" width="30"/>
+Languages and Tools: <img src="https://img.shields.io/badge/Skill-SQL-blue" alt="SQL" width="100"/>
+<img src="https://img.shields.io/badge/Skill-Microsoft%20Word-blue" alt="Microsoft Word" width="100"/>
+<img src="https://img.shields.io/badge/Skill-Microsoft%20Office-blue" alt="Microsoft Office" width="100"/>
+<img src="https://img.shields.io/badge/Skill-Power%20BI-orange" alt="Power BI" width="100"/>
+<img src="https://img.shields.io/badge/Skill-Statistics-green" alt="Statistics" width="100"/>
 
 
 
