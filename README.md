@@ -1,4 +1,4 @@
-                                                                    👋Hi, I’m @BallaSaiSrilekha
+                                                                    <h1 style="font-size:50px;">👋Hi, I’m @BallaSaiSrilekha</h1>
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning how to transform raw data into insights
 - 💞️ I’m looking to collaborate on projects which utilize skills like Microsoft Excel,SQL,Microsoft Word,Power BI,Statistics,Hypothesis Testing
