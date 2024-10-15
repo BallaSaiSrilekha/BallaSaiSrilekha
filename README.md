@@ -9,5 +9,6 @@
 <!---
 Visit my website: https://www.linkedin.com/in/balla-sai-srilekha-13386b295/
 Reach out to me: ballasaisrilekha@gmail.com
-Languages and Tools: ![Static Badge](https://img.shields.io/badge/excel)
+Languages and Tools: ![excel](https://github.com/user-attachments/assets/2b283dc5-0ec7-423a-be0e-58881b98b5ff)
+
 --->
