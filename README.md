@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>👋 Hi, I’m @BallaSaiSrilekha</h1>
+<h1>👋 Hi, I’m @BallaSaiSrilekha Data Analyst</h1>
 
 <!-- Or using a span with inline CSS -->
 
