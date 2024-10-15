@@ -9,5 +9,5 @@
 <!---
 Visit my website: https://www.linkedin.com/in/balla-sai-srilekha-13386b295/
 Reach out to me: ballasaisrilekha@gmail.com
-Languages and Tools: ![Excel](https://link-to-the-excel-icon.png) 
+Languages and Tools: https://link-to-the-excel-icon.png
 --->
