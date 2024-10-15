@@ -1,4 +1,6 @@
-                                                                    #**👋Hi, I’m @BallaSaiSrilekha**
+                                                                    # **👋Hi, I’m @BallaSaiSrilekha**
+
+                                                                    
 - 👀 I’m interested in Data Analytics and have 1+ years of experience in relevant field and 3.5 years of work experience in IT field.
 - 🌱 I’m currently learning how to transform raw data into insights
 - 💞️ I’m looking to collaborate on projects which utilize skills like Microsoft Excel,SQL,Microsoft Word,Power BI,Statistics,Hypothesis Testing
